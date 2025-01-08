@@ -1,4 +1,4 @@
-FROM --platform=linux/arm64/v8 ubuntu:latest
+FROM --platform=linux/arm64/v8 ubuntu:24.10
 
 WORKDIR /app
 EXPOSE 80 443
